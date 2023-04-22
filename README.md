@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Garg</h1>
+<h1 align="center">Hi 👋, I'm Jai Jain</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gamersyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamersyv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hardik-garg-99069b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik garg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17354249/hardik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hardikgarg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jai-2002-jain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jai Jain" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21035405/jai-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jai Jain" height="30" width="40" /></a>
 <a href="https://medium.com/@hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hardikgarg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hardik12c" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hardik12bu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardik12bu" height="30" width="40" /></a>
