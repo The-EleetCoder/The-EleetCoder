@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
 
-- 📫 How to reach me **hardik12c@gmail.com**
+- 📫 How to reach me **jaijain1803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
